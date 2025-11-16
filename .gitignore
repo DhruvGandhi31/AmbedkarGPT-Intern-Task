@@ -1,0 +1,5 @@
+chroma_db
+src\rag\__pycache__
+src\utils\__pycache__
+.vscode
+__pycache__
